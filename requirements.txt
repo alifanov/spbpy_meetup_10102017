@@ -1,0 +1,14 @@
+jupyter
+RISE
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+sklearn
+keras
+tensorflow
+h5py
+git+http://github.com/alifanov/mikasa_ed.git
+poloniex
+backtrader
